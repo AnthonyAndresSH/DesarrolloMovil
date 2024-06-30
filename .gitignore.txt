@@ -1,0 +1,66 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-list
+
+# Android
+.gradle/
+.idea/
+local.properties
+.DS_Store
+build/
+*/build/
+
+# iOS
+Flutter/Flutter.framework
+Flutter/Flutter.podspec
+ServiceDefinitions.json
+Runner/GeneratedPluginRegistrant.*
+.build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.moved-aside
+DerivedData/
+.idea/
+.DS_Store
+build/
+*.xcworkspace
+*.xcuserdatad
+*.xcuserstate
+
+# Web
+web/.dart_tool/
+
+# MacOS
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter-Debug.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Windows
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.cc
+
+# Linux
+linux/flutter/ephemeral/
+linux/flutter/generated_plugin_registrant.cc
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Misc
+.DS_Store
